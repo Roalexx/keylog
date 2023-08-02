@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "keylog": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
